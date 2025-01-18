@@ -1,16 +1,15 @@
-# Starter base
+# Install dependencies
 
-A starting point to help you set up your project quickly and use the common components provided by `react-native-reusables`. The idea is to make it easier for you to get started.
+```bash
+pnpm install
+```
 
-## Features
+# Before running the app
 
-- NativeWind v4
-- Dark and light mode
-  - Android Navigation Bar matches mode
-  - Persistent mode
-- Common components
-  - ThemeToggle, Avatar, Button, Card, Progress, Text, Tooltip
+Download the Expo Go app from the App Store or Google Play Store.
 
-<img src="https://github.com/mrzachnugent/react-native-reusables/assets/63797719/42c94108-38a7-498b-9c70-18640420f1bc"
-     alt="starter-base-template"
-     style="width:270px;" />
+# Run the app
+
+```bash
+npx expo start
+```
